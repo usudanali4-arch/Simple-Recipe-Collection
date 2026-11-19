@@ -1,2 +1,5 @@
 # myprogram
-proposal
+Proposal
+Acadamic purpose
+System Admin
+
